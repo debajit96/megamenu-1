@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.dropdown-menu {
+  width: 500px;
+}
+
+h5 {
+  font-size: 1.5rem;
+}
